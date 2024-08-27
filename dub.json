@@ -1,0 +1,11 @@
+{
+    "name": "my_cascrypt",
+    "description": "A simple encryption algorithm called Cascrypt",
+    "authors": [
+        "0romos"
+    ],
+    "dependencies": {
+    },
+    "targetType": "executable",
+    "dflags": ["-dip1000"]
+}
